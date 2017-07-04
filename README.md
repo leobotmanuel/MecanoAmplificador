@@ -19,7 +19,7 @@ Programa para el [Nano-Arduino](https://github.com/leobotmanuel/MecanoAmplificad
 
 <a href="" target="_blank"><img width="500" height="300" border="0" align="center" src="img/Esquema01.png  "/></a>
 
-Esquema electrónico
+[Esquema electrónico](https://github.com/leobotmanuel/MecanoAmplificador/blob/master/doc/Esquema02.fzz)
 
 <a href="" target="_blank"><img width="811" height="514" border="0" align="center" src="img/Esquema02.png  "/></a>
 
