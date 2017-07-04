@@ -3,7 +3,7 @@
 
 Dispositivo programable del proyecto Amplificación Mecanoceptiva de Maite Aliaga.
 
-<a href="" target="_blank"><img width="500" height="415" border="0" align="center" src="img/foto02.jpg "/></a>
+<a href="" target="_blank"><img width="460" height="384" border="0" align="center" src="img/foto02.jpg "/></a>
 <a href="" target="_blank"><img width="507" height="384" border="0" align="center" src="img/sistemaCompleto.jpg "/></a>
 
 <a href="" target="_blank"><img width="319" height="531" border="0" align="center" src="img/esqueleto.jpg "/></a>
