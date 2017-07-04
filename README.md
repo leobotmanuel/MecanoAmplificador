@@ -21,7 +21,7 @@ Programa para el [Nano-Arduino](https://github.com/leobotmanuel/MecanoAmplificad
 
 Esquema electrónico
 
-<a href="" target="_blank"><img width="500" height="314" border="0" align="center" src="img/Esquema02.png  "/></a>
+<a href="" target="_blank"><img width="811" height="514" border="0" align="center" src="img/Esquema02.png  "/></a>
 
 # Propuestas de mejora
 
