@@ -2,6 +2,7 @@
 <a href="" target="_blank"><img width="88" height="31" border="0" align="center" src="img/88x31.png "/></a>
 
 Dispositivo programable del proyecto Amplificación Mecanoceptiva de Maite Aliaga.
+Presentación de la Comunicación Libre en las [Jornadas de Bajo Coste](http://www.crmfalbacete.org/recursosbajocoste/default.asp) de Albacete, 6-7-8 de Julio de 2017.
 
 <a href="" target="_blank"><img width="405" height="338" border="0" align="center" src="img/foto02.jpg "/></a>
 <a href="" target="_blank"><img width="450" height="338" border="0" align="center" src="img/sistemaCompleto.jpg "/></a>
