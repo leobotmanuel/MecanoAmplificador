@@ -6,7 +6,7 @@ Dispositivo programable del proyecto Amplificación Mecanoceptiva de Maite Aliag
 <a href="" target="_blank"><img width="300" height="250" border="0" align="center" src="img/foto02.jpg "/></a>
 <a href="" target="_blank"><img width="300" height="250" border="0" align="center" src="img/sistemaCompleto.jpg "/></a>
 
-<a href="" target="_blank"><img width="300" height="250" border="0" align="center" src="img/esqueleto.jpg "/></a>
+<a href="" target="_blank"><img width="250" height="250" border="0" align="center" src="img/esqueleto.jpg "/></a>
 <a href="" target="_blank"><img width="300" height="250" border="0" align="center" src="img/pie.jpg "/></a>
 
 Programa para el [Nano-Arduino](https://github.com/leobotmanuel/MecanoAmplificador/blob/master/software/mecanoAmplificador.ino)
