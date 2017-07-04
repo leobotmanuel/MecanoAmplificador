@@ -3,7 +3,7 @@
 
 Dispositivo programable del proyecto Amplificación Mecanoceptiva de Maite Aliaga.
 
-Presentación de la [Comunicación Libre]("MecanoAmplificador/doc/ALIAGAamplificacionmecanoceptiva.pdf") en las [Jornadas de Bajo Coste](http://www.crmfalbacete.org/recursosbajocoste/default.asp) de Albacete, 6-7-8 de Julio de 2017.
+Presentación de la [Comunicación Libre](https://github.com/leobotmanuel/MecanoAmplificador/blob/master/doc/ALIAGAamplificacionmecanoceptiva.pdf) en las [Jornadas de Bajo Coste](http://www.crmfalbacete.org/recursosbajocoste/default.asp) de Albacete, 6-7-8 de Julio de 2017.
 
 <a href="" target="_blank"><img width="405" height="338" border="0" align="center" src="img/foto02.jpg "/></a>
 <a href="" target="_blank"><img width="450" height="338" border="0" align="center" src="img/sistemaCompleto.jpg "/></a>
