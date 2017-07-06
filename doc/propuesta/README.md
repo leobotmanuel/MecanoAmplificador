@@ -5,10 +5,6 @@
 
 [ARDUINO MINI](https://store.arduino.cc/arduino-mini-05)
 
-
-
-Dispositivo Mecano Amplificador.
-
 <a href="" target="_blank"><img width="405" height="338" border="0" align="center" src="img/miniArduino.jpg "/></a>
 
 
