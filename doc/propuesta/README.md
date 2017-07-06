@@ -1,14 +1,16 @@
-# MecanoAmplificador
+# Propuestas de mejora
 <a href="" target="_blank"><img width="88" height="31" border="0" align="center" src="img/88x31.png "/></a>
 
-Dispositivo programable del proyecto Amplificación Mecanoceptiva de Maite Aliaga.
+- Reducir el tamaño  del sistema completo.
 
-Presentación de la [Comunicación Libre](https://github.com/leobotmanuel/MecanoAmplificador/blob/master/doc/ALIAGAamplificacionmecanoceptiva.pdf) en las [Jornadas de Bajo Coste](http://www.crmfalbacete.org/recursosbajocoste/default.asp) de Albacete, 6-7-8 de Julio de 2017.
+[ARDUINO MINI](https://store.arduino.cc/arduino-mini-05)
+
+
 
 Dispositivo Mecano Amplificador.
 
-<a href="" target="_blank"><img width="405" height="338" border="0" align="center" src="img/foto02.jpg "/></a>
-<a href="" target="_blank"><img width="450" height="338" border="0" align="center" src="img/sistemaCompleto.jpg "/></a>
+<a href="" target="_blank"><img width="405" height="338" border="0" align="center" src="img/miniArduino.jpg "/></a>
+
 
 Colcación del Mecano Amplificaador en las personas.
 
@@ -23,4 +25,3 @@ Programa para el [Nano-Arduino](https://github.com/leobotmanuel/MecanoAmplificad
 
 <a href="" target="_blank"><img width="811" height="514" border="0" align="center" src="img/Esquema02.png  "/></a>
 
-# Propuestas de mejora
