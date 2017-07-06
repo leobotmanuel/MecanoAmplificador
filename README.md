@@ -23,5 +23,5 @@ Programa para el [Nano-Arduino](https://github.com/leobotmanuel/MecanoAmplificad
 
 <a href="" target="_blank"><img width="811" height="514" border="0" align="center" src="img/Esquema02.png  "/></a>
 
-# Propuestas de mejora
+[# Propuestas de mejora](https://github.com/leobotmanuel/MecanoAmplificador/blob/master/doc/propuesta/README.md)
 
