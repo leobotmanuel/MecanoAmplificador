@@ -10,3 +10,5 @@
 <a href="" target="_blank"><img width="600" height="395" border="0" align="center" src="img/miniArduino.jpg "/></a>
 
 [WEMOS](http://robotpersonal.es/product.php?id_product=223)
+
+<a href="" target="_blank"><img width="600" height="600" border="0" align="center" src="img/wemos.jpg "/></a>
