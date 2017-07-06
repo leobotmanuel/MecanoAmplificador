@@ -12,3 +12,5 @@
 [WEMOS](http://robotpersonal.es/product.php?id_product=223)
 
 <a href="" target="_blank"><img width="600" height="600" border="0" align="center" src="img/wemos.jpg "/></a>
+
+[Shield](http://robotpersonal.es/category.php?id_category=89) para Wemos
