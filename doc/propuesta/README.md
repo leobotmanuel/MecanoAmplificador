@@ -4,8 +4,7 @@
 - Reducir el tamaño  del sistema completo.
 
 [ARDUINO MINI](https://store.arduino.cc/arduino-mini-05)
-
-<a href="" target="_blank"><img width="405" height="338" border="0" align="center" src="img/miniArduino.jpg "/></a>
+<a href="" target="_blank"><img width="600" height="395" border="0" align="center" src="img/miniArduino.jpg "/></a>
 
 
 Colcación del Mecano Amplificaador en las personas.
