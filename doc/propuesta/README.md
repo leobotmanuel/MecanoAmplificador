@@ -9,10 +9,10 @@
 
 <a href="" target="_blank"><img width="600" height="395" border="0" align="center" src="img/miniArduino.jpg "/></a>
 
+[WEMOS](http://robotpersonal.es/product.php?id_product=223)
 
-Colcación del Mecano Amplificaador en las personas.
+<a href="" target="_blank"><img width="600" height="395" border="0" align="center" src="img/wemos.jpg "/></a>
 
-<a href="" target="_blank"><img width="319" height="531" border="0" align="center" src="img/esqueleto.jpg "/></a>
 <a href="" target="_blank"><img width="451" height="336" border="0" align="center" src="img/pie.jpg "/></a>
 
 Programa para el [Nano-Arduino](https://github.com/leobotmanuel/MecanoAmplificador/blob/master/software/mecanoAmplificador.ino)
