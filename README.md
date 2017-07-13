@@ -5,7 +5,7 @@ Dispositivo programable del proyecto Amplificación Mecanoceptiva de Maite Aliag
 
 Presentación de la [Comunicación Libre](https://github.com/leobotmanuel/MecanoAmplificador/blob/master/doc/ALIAGAamplificacionmecanoceptiva.pdf) en las [Jornadas de Bajo Coste](http://www.crmfalbacete.org/recursosbajocoste/default.asp) de Albacete, 6-7-8 de Julio de 2017.
 
-Dispositivo Mecano Amplificador, [dossier concurso](https://github.com/leobotmanuel/MecanoAmplificador/blob/master/doc/MecanoAmplificador_concurso.pdf).
+Dispositivo Mecano Amplificador, [dossier concurso](https://github.com/leobotmanuel/MecanoAmplificador/blob/master/doc/ALIAGAdossierconcursoBajoCoste2017AmplificacionMecanoceptiva.pdf).
 
 <a href="" target="_blank"><img width="405" height="338" border="0" align="center" src="img/foto02.jpg "/></a>
 <a href="" target="_blank"><img width="450" height="338" border="0" align="center" src="img/sistemaCompleto.jpg "/></a>
