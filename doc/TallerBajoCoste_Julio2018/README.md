@@ -8,22 +8,6 @@ Presentación de las novedades del proyecto en las [Jornadas de Bajo Coste](http
 
 El documento de la [presentación](https://github.com/leobotmanuel/MecanoAmplificador/doc/TallerBajoCoste_Julio2018/doc/ALIAGATallerAmplifMecanocepBajoCoste2018.pdf).
 
-<a href="" target="_blank"><img width="405" height="338" border="0" align="center" src="img/foto02.jpg "/></a>
-<a href="" target="_blank"><img width="450" height="338" border="0" align="center" src="img/sistemaCompleto.jpg "/></a>
-
-Colcación del Mecano Amplificador en las personas.
-
-<a href="" target="_blank"><img width="319" height="531" border="0" align="center" src="img/esqueleto.jpg "/></a>
-<a href="" target="_blank"><img width="451" height="336" border="0" align="center" src="img/pie.jpg "/></a>
-
-Programa para el [Nano-Arduino](https://github.com/leobotmanuel/MecanoAmplificador/blob/master/software/mecanoAmplificador.ino)
-
-<a href="" target="_blank"><img width="500" height="300" border="0" align="center" src="img/Esquema01.png  "/></a>
-
-[Esquema electrónico](https://github.com/leobotmanuel/MecanoAmplificador/blob/master/doc/Esquema02.fzz)
-
-<a href="" target="_blank"><img width="811" height="514" border="0" align="center" src="img/Esquema02.png  "/></a>
-
-[PROPUESTAS DE MEJORA](https://github.com/leobotmanuel/MecanoAmplificador/blob/master/doc/propuesta/README.md)
+<a href="" target="_blank"><img width="405" height="338" border="0" align="center" src=" MecanoAmplificador/doc/TallerBajoCoste_Julio2018/doc/TallerMecanoAmpli_Julio2018.png "/></a>
 
 [Volver índice](https://github.com/leobotmanuel/AmplificacionMecanoceptiva)
