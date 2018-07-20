@@ -6,7 +6,7 @@ Taller práctico del proyecto Amplificación Mecanoceptiva de Maite Aliaga.
 
 Presentación de las novedades del proyecto en las [Jornadas de Bajo Coste](http://www.crmfalbacete.org/recursosbajocoste/default.asp) de Albacete, 12-13-14 de Julio de 2018.
 
-El documento de la [presentación](https://github.com/leobotmanuel/MecanoAmplificador/doc/TallerBajoCoste_Julio2018/doc/ALIAGATallerAmplifMecanocepBajoCoste2018.pdf).
+El documento de la [presentación](doc/ALIAGATallerAmplifMecanocepBajoCoste2018.pdf).
 
 <a href="" target="_blank"><img width="500" height="338" border="0" align="center" src="doc/TallerMecanoAmpli_Julio2018.png "/></a>
 
