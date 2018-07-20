@@ -1,5 +1,4 @@
-# MecanoAmplificador
-<a href="" target="_blank"><img width="88" height="31" border="0" align="center" src="img/88x31.png "/></a>
+# MecanoAmplificador  <a href="" target="_blank"><img width="88" height="31" border="0" align="center" src="img/88x31.png "/></a>
 
 ## Comunicación libre. Jornadas de Bajo Coste.
 ### Albacete, Julio 2018
