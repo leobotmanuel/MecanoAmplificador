@@ -25,3 +25,5 @@ Programa para el [Nano-Arduino](https://github.com/leobotmanuel/MecanoAmplificad
 <a href="" target="_blank"><img width="811" height="514" border="0" align="center" src="img/Esquema02.png  "/></a>
 
 [PROPUESTAS DE MEJORA](https://github.com/leobotmanuel/MecanoAmplificador/blob/master/doc/propuesta/README.md)
+
+[Volver índice](https://github.com/leobotmanuel/AmplificacionMecanoceptiva)
