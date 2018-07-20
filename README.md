@@ -1,8 +1,8 @@
 # MecanoAmplificador
 <a href="" target="_blank"><img width="88" height="31" border="0" align="center" src="img/88x31.png "/></a>
 
-# Comunicación libre. Jornadas de Bajo Coste.
-## Albacete, Julio 2018
+## Comunicación libre. Jornadas de Bajo Coste.
+### Albacete, Julio 2018
 Dispositivo programable del proyecto Amplificación Mecanoceptiva de Maite Aliaga.
 
 Presentación de la [Comunicación Libre](https://github.com/leobotmanuel/MecanoAmplificador/blob/master/doc/ALIAGAamplificacionmecanoceptiva.pdf) en las [Jornadas de Bajo Coste](http://www.crmfalbacete.org/recursosbajocoste/default.asp) de Albacete, 6-7-8 de Julio de 2017.
