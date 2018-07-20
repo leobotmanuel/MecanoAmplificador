@@ -1,4 +1,4 @@
-# MecanoAmplificador  <a href="" target="_blank"><img width="88" height="31" border="0" align="rigth" src="https://github.com/leobotmanuel/MecanoAmplificador/tree/master/img/88x31.png "/></a>
+# MecanoAmplificador  <a href="" target="_blank"><img width="88" height="31" border="0" align="rigth" src="https://github.com/leobotmanuel/MecanoAmplificador/img/88x31.png "/></a>
 
 ## Comunicación libre. Jornadas de Bajo Coste.
 ### Albacete, Julio 2017
