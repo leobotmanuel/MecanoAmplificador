@@ -8,6 +8,6 @@ Presentación de las novedades del proyecto en las [Jornadas de Bajo Coste](http
 
 El documento de la [presentación](doc/ALIAGATallerAmplifMecanocepBajoCoste2018.pdf).
 
-<a href="" target="_blank"><img width="500" height="338" border="0" align="center" src="doc/TallerMecanoAmpli_Julio2018.png "/></a>
+<a href="" target="_blank"><img width="550" height="275" border="0" align="center" src="doc/TallerMecanoAmpli_Julio2018.png "/></a>
 
 [Volver índice](https://github.com/leobotmanuel/AmplificacionMecanoceptiva)
