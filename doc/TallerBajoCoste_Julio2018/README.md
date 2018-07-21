@@ -1,6 +1,6 @@
 # Amplificación Mecanoceptiva  <a href="" target="_blank"><img width="88" height="31" border="0" align="rigth" src="doc/88x31.png "/></a>
 
-## Taller. Jornadas de Bajo Coste.
+## Taller de Amplificación Mecanoceptiva. Jornadas de Bajo Coste.
 ### Albacete, Julio 2018
 Taller práctico del proyecto Amplificación Mecanoceptiva de Maite Aliaga.
 
