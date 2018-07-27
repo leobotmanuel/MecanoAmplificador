@@ -1,9 +1,10 @@
-//Proyecto Amplificadon Mecanoceptiva
+//Proyecto Amplificacion Mecanoceptiva
 //Dispositivo Mecano-Amplificador
 //Autores:
 //        Maite Aliaga
 //        Manuel Hidalgo
 //Fecha: Junio 2017
+//Fecha: Abril 2018. Modificacion del ciclo de trabajo 25%
 //Código con licencia Creative Commons (by-nc-sa)
 
 //declaracion de variables y pines
