@@ -33,13 +33,14 @@ void loop()
   Serial.println(umbral);
 
   //activa el motor-vibrador si cumple la condicion
+  //el ciclo de trabajo del motor-vibrador 25%
   if (resRead > umbral) {
     digitalWrite(motorPinD3, 1);
-    delay(500);
+    delay(750);
   }
 
   //desactiva el motor-vibrador
   digitalWrite(motorPinD3, 0);
-  delay(500);
+  delay(250);
   
 }
