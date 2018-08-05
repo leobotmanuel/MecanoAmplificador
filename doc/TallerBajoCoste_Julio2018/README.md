@@ -12,4 +12,4 @@ El documento de la [presentación](doc/ALIAGATallerAmplifMecanocepBajoCoste2018.
 
 <a href="" target="_blank"><img width="550" height="275" border="0" align="center" src="doc/TallerMecanoAmpli_Julio2018.png "/></a>
 
-[Volver índice](https://github.com/leobotmanuel/AmplificacionMecanoceptiva)
+[Volver índice](https://mecanoceptiva.github.io/)
