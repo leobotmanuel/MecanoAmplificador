@@ -26,4 +26,4 @@ Programa para el [Nano-Arduino](https://github.com/leobotmanuel/MecanoAmplificad
 
 [PROPUESTAS DE MEJORA](https://github.com/leobotmanuel/MecanoAmplificador/blob/master/doc/propuesta/README.md)
 
-[Volver índice](https://github.com/leobotmanuel/AmplificacionMecanoceptiva)
+[Volver índice](https://mecanoceptiva.github.io/)
