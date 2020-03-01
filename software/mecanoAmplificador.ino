@@ -37,11 +37,11 @@ void loop()
   //el ciclo de trabajo del motor-vibrador 25%
   if (resRead > umbral) {
     digitalWrite(motorPinD3, 1);
-    delay(750);
+    delay(250);
   }
 
   //desactiva el motor-vibrador
   digitalWrite(motorPinD3, 0);
-  delay(250);
+  delay(750);
   
 }
